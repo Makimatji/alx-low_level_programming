@@ -1,5 +1,3 @@
-9-fizz_buzz.c
-
 #include "main.h"
 #include <stdio.h>
 
