@@ -10,7 +10,7 @@ void print_binary(unsigned long int n)
 	unsigned long int temp;
 	int shifts;
 
-	if (p == 0)
+	if (n == 0)
 	{
 		printf("0");
 		return;
